@@ -24,16 +24,12 @@ After the dependencies are installed and the server is running, you can access t
 
 On the home page, you can view all the blogs that have been created. Click on a blog post to view the entire blog on a separate page.
 
-<img src=".\public\home.png" alt="home-page">
+<img src=".\publicReadme\home.png" alt="home-page">
 
 On the blog page, you can view the entire blog post. You can also navigate back to the home page by clicking on the "Home" button.
 
-<img src=".\public\blog.png">
+<img src=".\publicReadme\blog.png">
 
 On the create page, you can create a new blog post by filling out the form and clicking on the "Add Blog" button.
 
-<img src=".\public\create.png" alt="create-page"> 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<img src=".\publicReadme\create.png" alt="create-page"> 
